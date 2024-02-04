@@ -7,3 +7,5 @@ int main()
   }
   return 0;
 }
+git .
+  git -m "Anything else?"
